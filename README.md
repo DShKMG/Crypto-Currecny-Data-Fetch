@@ -17,3 +17,10 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
+
+
+## About Libraries/Packages
+
+I do not own the library files. You need to have Html Unit library to run this code. Please refer to the owner of the library
+https://sourceforge.net/projects/htmlunit/files/htmlunit/
+https://htmlunit.sourceforge.io/
