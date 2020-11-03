@@ -1,0 +1,200 @@
+5001.0 - Bitcoin BEP2 - Index Number : 114
+29968.0 - yearn.finance - Index Number : 44
+37839.0 - PAX Gold - Index Number : 102
+38596.0 - DFI.Money - Index Number : 130
+120282.0 - Wrapped Bitcoin - Index Number : 16
+1003154.0 - Maker - Index Number : 33
+1104590.0 - Gnosis - Index Number : 120
+1492260.0 - Melon - Index Number : 172
+1530127.0 - Tellor - Index Number : 189
+2000013.0 - Keep3rV1 - Index Number : 167
+3148408.0 - xDai - Index Number : 185
+3610750.0 - Numeraire - Index Number : 90
+4061204.0 - Compound - Index Number : 37
+4581173.0 - SUN - Index Number : 158
+5200968.0 - NXM - Index Number : 81
+6943831.0 - Balancer - Index Number : 118
+8470098.0 - Kusama - Index Number : 54
+9795799.0 - Dash - Index Number : 28
+1.0E7 - Uquid Coin - Index Number : 115
+1.0295813E7 - Horizen - Index Number : 121
+1.0394138E7 - Zcash - Index Number : 32
+1.1E7 - Augur - Index Number : 70
+1.1171643E7 - Zcoin - Index Number : 168
+1.1284564E7 - Aave - Index Number : 43
+1.2072738E7 - Quant - Index Number : 66
+1.2205023E7 - Decred - Index Number : 69
+1.3710605E7 - Elrond - Index Number : 82
+1.3831756E7 - Haven Protocol - Index Number : 198
+1.724454E7 - Elastos - Index Number : 186
+1.7513924E7 - Bitcoin Gold - Index Number : 74
+1.774722E7 - Monero - Index Number : 13
+1.8532837E7 - Bitcoin - Index Number : 0
+1.8560552E7 - Bitcoin SV - Index Number : 11
+1.8562188E7 - Bitcoin Cash - Index Number : 4
+1.9480777E7 - Nexalt - Index Number : 179
+2.0494033E7 - Band Protocol - Index Number : 92
+2.45E7 - Avalanche - Index Number : 94
+2.7204091E7 - Filecoin - Index Number : 24
+2.8271916E7 - DIA - Index Number : 184
+3.0062138E7 - Energy Web Token - Index Number : 64
+3.1979207E7 - STASIS EURO - Index Number : 153
+3.3394701E7 - Arweave - Index Number : 116
+3.3485395E7 - Kava.io - Index Number : 132
+3.4519002E7 - Energi - Index Number : 126
+3.9609523E7 - Aragon - Index Number : 77
+4.1711707E7 - Travala.com - Index Number : 154
+4.4862538E7 - HyperCash - Index Number : 145
+4.5788958E7 - Solana - Index Number : 110
+5.0E7 - Serum - Index Number : 139
+5.3507359E7 - Helium - Index Number : 146
+5.5360404E7 - UMA - Index Number : 36
+6.0E7 - OKB - Index Number : 52
+6.5729675E7 - MonaCoin - Index Number : 95
+6.5800528E7 - Litecoin - Index Number : 7
+6.9996425E7 - Bancor - Index Number : 143
+7.0E7 - GXChain - Index Number : 195
+7.0538831E7 - Neo - Index Number : 20
+7.5910775E7 - TomoChain - Index Number : 148
+7.6431036E7 - GateToken - Index Number : 171
+7.6766934E7 - Swipe - Index Number : 117
+8.0070793E7 - iExec RLC - Index Number : 122
+8.0728394E7 - KuCoin Shares - Index Number : 107
+9.4346958E7 - FTX Token - Index Number : 39
+9.7361356E7 - Qtum - Index Number : 63
+1.00020266E8 - Stratis - Index Number : 157
+1.02076223E8 - AdEx Network - Index Number : 199
+1.03439488E8 - Waves - Index Number : 41
+1.04779476E8 - Synthetix Network Token - Index Number : 48
+1.0915307E8 - Ampleforth - Index Number : 72
+1.09429002E8 - Curve DAO Token - Index Number : 147
+1.13276561E8 - Ethereum - Index Number : 1
+1.16313299E8 - Ethereum Classic - Index Number : 31
+1.22599599E8 - Komodo - Index Number : 127
+1.24447717E8 - Celo - Index Number : 58
+1.24906137E8 - Ark - Index Number : 161
+1.26308469E8 - Lisk - Index Number : 73
+1.33248297E8 - Nano - Index Number : 84
+1.40245398E8 - OMG Network - Index Number : 35
+1.43880257E8 - SushiSwap - Index Number : 98
+1.44406561E8 - Binance Coin - Index Number : 6
+1.48799999E8 - Unibright - Index Number : 128
+1.58432088E8 - THORChain - Index Number : 119
+1.68768011E8 - Wanchain - Index Number : 151
+1.74876443E8 - NEAR Protocol - Index Number : 85
+1.83173299E8 - Hxro - Index Number : 144
+1.86492898E8 - Bitcoin Diamond - Index Number : 96
+1.89E8 - WaykiChain - Index Number : 176
+1.98345999E8 - Kyber Network - Index Number : 68
+1.99271425E8 - Storj - Index Number : 123
+2.05260477E8 - Cosmos - Index Number : 22
+2.0703913E8 - Huobi Token - Index Number : 25
+2.13980557E8 - Uniswap - Index Number : 34
+2.22295208E8 - Voyager Token - Index Number : 163
+2.3886352E8 - Celsius - Index Number : 38
+2.44951954E8 - Paxos Standard - Index Number : 53
+2.54286772E8 - TrueUSD - Index Number : 50
+2.77684218E8 - HUSD - Index Number : 45
+2.82119914E8 - BOSAGORA - Index Number : 196
+2.82481645E8 - Ultra - Index Number : 192
+2.95897337E8 - Super Zero Protocol - Index Number : 175
+3.16765917E8 - Hyperion - Index Number : 155
+3.19200468E8 - Handshake - Index Number : 173
+3.19680607E8 - OriginTrail - Index Number : 165
+3.24175456E8 - Aeternity - Index Number : 178
+3.39231468E8 - HedgeTrade - Index Number : 60
+3.67584352E8 - Orchid - Index Number : 100
+3.75651077E8 - SOLVE - Index Number : 164
+3.86539947E8 - Terra - Index Number : 78
+3.90509556E8 - Chainlink - Index Number : 5
+3.94504663E8 - Steem - Index Number : 125
+4.14024152E8 - Hive - Index Number : 135
+4.14026837E8 - Ocean Protocol - Index Number : 59
+4.23992467E8 - Power Ledger - Index Number : 169
+4.5E8 - Utrust - Index Number : 142
+4.52552412E8 - MaidSafeCoin - Index Number : 136
+4.6328881E8 - ZB Token - Index Number : 76
+4.77861253E8 - Aion - Index Number : 183
+5.444802E8 - aelf - Index Number : 140
+5.53748265E8 - Kleros - Index Number : 181
+5.60000011E8 - Nexo - Index Number : 89
+5.72522076E8 - ICON - Index Number : 61
+5.99412729E8 - Syscoin - Index Number : 194
+6.52288448E8 - Blockstack - Index Number : 83
+6.56073345E8 - RSK Infrastructure Framework - Index Number : 113
+6.91910084E8 - Binance USD - Index Number : 26
+6.92329898E8 - Streamr - Index Number : 193
+7.020291E8 - ABBC Coin - Index Number : 56
+7.43937911E8 - 0x - Index Number : 55
+7.46113681E8 - Fetch.ai - Index Number : 180
+7.48806383E8 - Tezos - Index Number : 18
+7.75792432E8 - Ontology - Index Number : 40
+8.23130411E8 - Enjin Coin - Index Number : 87
+8.43526216E8 - SingularityNET - Index Number : 170
+8.52647705E8 - Polkadot - Index Number : 8
+8.64268363E8 - IRISnet - Index Number : 156
+8.84532525E8 - Ren - Index Number : 57
+9.23438697E8 - SwissBorg - Index Number : 106
+9.31035715E8 - Digitex Futures - Index Number : 182
+9.37454637E8 - EOS - Index Number : 12
+9.50856684E8 - Dai - Index Number : 21
+9.9067E8 - Golem - Index Number : 101
+9.98999495E8 - Ardor - Index Number : 129
+9.99498893E8 - UNUS SED LEO - Index Number : 19
+1.0E9 - THETA - Index Number : 30
+1.060404496E9 - CyberVein - Index Number : 80
+1.070155283E9 - Switcheo - Index Number : 197
+1.0915099E9 - Algorand - Index Number : 51
+1.145686385E9 - Loopring - Index Number : 67
+1.384310182E9 - Bytom - Index Number : 99
+1.397685472E9 - WAX - Index Number : 137
+1.484073334E9 - Decentraland - Index Number : 88
+1.486868945E9 - Basic Attention Token - Index Number : 47
+1.978308954E9 - Divi - Index Number : 109
+2.014238229E9 - ShareToken - Index Number : 152
+2.106296362E9 - Velas - Index Number : 93
+2.126924333E9 - v.systems - Index Number : 174
+2.13561429E9 - Fantom - Index Number : 166
+2.229950518E9 - Orbs - Index Number : 187
+2.260326706E9 - JUST - Index Number : 141
+2.779530283E9 - IOTA - Index Number : 27
+2.935507661E9 - USD Coin - Index Number : 9
+2.99749E9 - BitShares - Index Number : 133
+3.1005E9 - Wirex Token - Index Number : 188
+3.470483788E9 - Status - Index Number : 108
+4.277526101E9 - Matic Network - Index Number : 124
+4.920737861E9 - Chiliz - Index Number : 131
+4.962631792E9 - Theta Fuel - Index Number : 138
+5.829566044E9 - Ankr - Index Number : 149
+5.887903653E9 - Thunder Token - Index Number : 191
+6.006191948E9 - Hedera Hashgraph - Index Number : 65
+6.25546111E9 - Harmony - Index Number : 190
+6.376377656E9 - The Midas Touch Gold - Index Number : 71
+7.273713838E9 - Flexacoin - Index Number : 162
+7.395805E9 - Ravencoin - Index Number : 91
+8.999999999E9 - NEM - Index Number : 23
+9.093069646E9 - QuarkChain - Index Number : 150
+9.349999E9 - Reserve Rights - Index Number : 86
+9.734304442E9 - IoTeX - Index Number : 104
+1.0205632065E10 - Electroneum - Index Number : 134
+1.0592883864E10 - Zilliqa - Index Number : 62
+1.1484410729E10 - Revain - Index Number : 75
+1.3710627268E10 - DigiByte - Index Number : 49
+1.5248034896E10 - IOST - Index Number : 105
+1.6382651543E10 - Verge - Index Number : 111
+1.6698102134E10 - Tether - Index Number : 2
+2.0876025123E10 - Stellar - Index Number : 17
+2.1114155251E10 - Crypto.com Coin - Index Number : 15
+2.1263386672E10 - Nervos Network - Index Number : 112
+3.1112484646E10 - Cardano - Index Number : 10
+4.4991322992E10 - Siacoin - Index Number : 79
+4.5284665028E10 - XRP - Index Number : 3
+5.0E10 - DxChain Token - Index Number : 103
+6.4315576989E10 - VeChain - Index Number : 29
+7.1659657369E10 - TRON - Index Number : 14
+1.26948933049E11 - Dogecoin - Index Number : 42
+1.666501808E11 - Holo - Index Number : 97
+2.34544488396E11 - Pundi X - Index Number : 159
+3.13607571387E11 - WINk - Index Number : 177
+9.89980301986E11 - BitTorrent - Index Number : 46
+1.518114145968E12 - Kin - Index Number : 160

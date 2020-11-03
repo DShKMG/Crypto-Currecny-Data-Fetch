@@ -1,0 +1,401 @@
+Name	Symbol				Circulating Supply
+Bitcoin	BTC			18,532,837 BTC				
+Ethereum	ETH			113,276,561 ETH				
+Tether	USDT			16,698,102,134 USDT *				
+XRP	XRP			45,284,665,028 XRP *				
+Bitcoin Cash	BCH			18,562,188 BCH				
+Chainlink	LINK			390,509,556 LINK *				
+Binance Coin	BNB			144,406,561 BNB *				
+Litecoin	LTC			65,800,528 LTC				
+Polkadot	DOT			852,647,705 DOT *				
+USD Coin	USDC			2,935,507,661 USDC *				
+Cardano	ADA			31,112,484,646 ADA				
+Bitcoin SV	BSV			18,560,552 BSV				
+EOS	EOS			937,454,637 EOS *				
+Monero	XMR			17,747,220 XMR				
+TRON	TRX			71,659,657,369 TRX *				
+Crypto.com Coin	CRO			21,114,155,251 CRO *				
+Wrapped Bitcoin	WBTC			120,282 WBTC *				
+Stellar	XLM			20,876,025,123 XLM *				
+Tezos	XTZ			748,806,383 XTZ *				
+UNUS SED LEO	LEO			999,498,893 LEO *				
+Neo	NEO			70,538,831 NEO *				
+Dai	DAI			950,856,684 DAI *				
+Cosmos	ATOM			205,260,477 ATOM *				
+NEM	XEM			8,999,999,999 XEM *				
+Filecoin	FIL			27,204,091 FIL				
+Huobi Token	HT			207,039,130 HT *				
+Binance USD	BUSD			691,910,084 BUSD *				
+IOTA	MIOTA			2,779,530,283 MIOTA *				
+Dash	DASH			9,795,799 DASH				
+VeChain	VET			64,315,576,989 VET *				
+THETA	THETA			1,000,000,000 THETA *				
+Ethereum Classic	ETC			116,313,299 ETC				
+Zcash	ZEC			10,394,138 ZEC				
+Maker	MKR			1,003,154 MKR *				
+Uniswap	UNI			213,980,557 UNI *				
+OMG Network	OMG			140,245,398 OMG *				
+UMA	UMA			55,360,404 UMA *				
+Compound	COMP			4,061,204 COMP *				
+Celsius	CEL			238,863,520 CEL *				
+FTX Token	FTT			94,346,958 FTT *				
+Ontology	ONT			775,792,432 ONT *				
+Waves	WAVES			103,439,488 WAVES *				
+Dogecoin	DOGE			126,948,933,049 DOGE				
+Aave	AAVE			11,284,564 AAVE *				
+yearn.finance	YFI			29,968 YFI *				
+HUSD	HUSD			277,684,218 HUSD *				
+BitTorrent	BTT			989,980,301,986 BTT *				
+Basic Attention Token	BAT			1,486,868,945 BAT *				
+Synthetix Network Token	SNX			104,779,476 SNX *				
+DigiByte	DGB			13,710,627,268 DGB				
+TrueUSD	TUSD			254,286,772 TUSD *				
+Algorand	ALGO			1,091,509,900 ALGO				
+OKB	OKB			60,000,000 OKB *				
+Paxos Standard	PAX			244,951,954 PAX *				
+Kusama	KSM			8,470,098 KSM *				
+0x	ZRX			743,937,911 ZRX *				
+ABBC Coin	ABBC			702,029,100 ABBC				
+Ren	REN			884,532,525 REN *				
+Celo	CELO			124,447,717 CELO *				
+Ocean Protocol	OCEAN			414,026,837 OCEAN *				
+HedgeTrade	HEDG			339,231,468 HEDG *				
+ICON	ICX			572,522,076 ICX *				
+Zilliqa	ZIL			10,592,883,864 ZIL				
+Qtum	QTUM			97,361,356 QTUM *				
+Energy Web Token	EWT			30,062,138 EWT *				
+Hedera Hashgraph	HBAR			6,006,191,948 HBAR *				
+Quant	QNT			12,072,738 QNT *				
+Loopring	LRC			1,145,686,385 LRC *				
+Kyber Network	KNC			198,345,999 KNC *				
+Decred	DCR			12,205,023 DCR				
+Augur	REP			11,000,000 REP *				
+The Midas Touch Gold	TMTG			6,376,377,656 TMTG *				
+Ampleforth	AMPL			109,153,070 AMPL *				
+Lisk	LSK			126,308,469 LSK *				
+Bitcoin Gold	BTG			17,513,924 BTG				
+Revain	REV			11,484,410,729 REV *				
+ZB Token	ZB			463,288,810 ZB *				
+Aragon	ANT			39,609,523 ANT *				
+Terra	LUNA			386,539,947 LUNA *				
+Siacoin	SC			44,991,322,992 SC				
+CyberVein	CVT			1,060,404,496 CVT *				
+NXM	NXM			5,200,968 NXM *				
+Elrond	EGLD			13,710,605 EGLD *				
+Blockstack	STX			652,288,448 STX *				
+Nano	NANO			133,248,297 NANO *				
+NEAR Protocol	NEAR			174,876,443 NEAR *				
+Reserve Rights	RSR			9,349,999,000 RSR *				
+Enjin Coin	ENJ			823,130,411 ENJ *				
+Decentraland	MANA			1,484,073,334 MANA *				
+Nexo	NEXO			560,000,011 NEXO *				
+Numeraire	NMR			3,610,750 NMR *				
+Ravencoin	RVN			7,395,805,000 RVN				
+Band Protocol	BAND			20,494,033 BAND *				
+Velas	VLX			2,106,296,362 VLX *				
+Avalanche	AVAX			24,500,000 AVAX *				
+MonaCoin	MONA			65,729,675 MONA				
+Bitcoin Diamond	BCD			186,492,898 BCD				
+Holo	HOT			166,650,180,800 HOT *				
+SushiSwap	SUSHI			143,880,257 SUSHI *				
+Bytom	BTM			1,384,310,182 BTM				
+Orchid	OXT			367,584,352 OXT *				
+Golem	GNT			990,670,000 GNT *				
+PAX Gold	PAXG			37,839 PAXG *				
+DxChain Token	DX			50,000,000,000 DX *				
+IoTeX	IOTX			9,734,304,442 IOTX *				
+IOST	IOST			15,248,034,896 IOST *				
+SwissBorg	CHSB			923,438,697 CHSB *				
+KuCoin Shares	KCS			80,728,394 KCS *				
+Status	SNT			3,470,483,788 SNT *				
+Divi	DIVI			1,978,308,954 DIVI				
+Solana	SOL			45,788,958 SOL *				
+Verge	XVG			16,382,651,543 XVG				
+Nervos Network	CKB			21,263,386,672 CKB *				
+RSK Infrastructure Framework	RIF			656,073,345 RIF *				
+Bitcoin BEP2	BTCB			5,001 BTCB *				
+Uquid Coin	UQC			10,000,000 UQC *				
+Arweave	AR			33,394,701 AR *				
+Swipe	SXP			76,766,934 SXP *				
+Balancer	BAL			6,943,831 BAL *				
+THORChain	RUNE			158,432,088 RUNE *				
+Gnosis	GNO			1,104,590 GNO *				
+Horizen	ZEN			10,295,813 ZEN				
+iExec RLC	RLC			80,070,793 RLC *				
+Storj	STORJ			199,271,425 STORJ *				
+Matic Network	MATIC			4,277,526,101 MATIC *				
+Steem	STEEM			394,504,663 STEEM *				
+Energi	NRG			34,519,002 NRG				
+Komodo	KMD			122,599,599 KMD				
+Unibright	UBT			148,799,999 UBT *				
+Ardor	ARDR			998,999,495 ARDR *				
+DFI.Money	YFII			38,596 YFII *				
+Chiliz	CHZ			4,920,737,861 CHZ *				
+Kava.io	KAVA			33,485,395 KAVA *				
+BitShares	BTS			2,997,490,000 BTS *				
+Electroneum	ETN			10,205,632,065 ETN				
+Hive	HIVE			414,024,152 HIVE *				
+MaidSafeCoin	MAID			452,552,412 MAID *				
+WAX	WAXP			1,397,685,472 WAXP *				
+Theta Fuel	TFUEL			4,962,631,792 TFUEL *				
+Serum	SRM			50,000,000 SRM *				
+aelf	ELF			544,480,200 ELF *				
+JUST	JST			2,260,326,706 JST *				
+Utrust	UTK			450,000,000 UTK *				
+Bancor	BNT			69,996,425 BNT *				
+Hxro	HXRO			183,173,299 HXRO *				
+HyperCash	HC			44,862,538 HC				
+Helium	HNT			53,507,359 HNT				
+Curve DAO Token	CRV			109,429,002 CRV *				
+TomoChain	TOMO			75,910,775 TOMO				
+Ankr	ANKR			5,829,566,044 ANKR *				
+QuarkChain	QKC			9,093,069,646 QKC *				
+Wanchain	WAN			168,768,011 WAN *				
+ShareToken	SHR			2,014,238,229 SHR *				
+STASIS EURO	EURS			31,979,207 EURS *				
+Travala.com	AVA			41,711,707 AVA *				
+Hyperion	HYN			316,765,917 HYN *				
+IRISnet	IRIS			864,268,363 IRIS *				
+Stratis	STRAT			100,020,266 STRAT *				
+SUN	SUN			4,581,173 SUN *				
+Pundi X	NPXS			234,544,488,396 NPXS *				
+Kin	KIN			1,518,114,145,968 KIN *				
+Ark	ARK			124,906,137 ARK *				
+Flexacoin	FXC			7,273,713,838 FXC *				
+Voyager Token	VGX			222,295,208 VGX *				
+SOLVE	SOLVE			375,651,077 SOLVE *				
+OriginTrail	TRAC			319,680,607 TRAC *				
+Fantom	FTM			2,135,614,290 FTM *				
+Keep3rV1	KP3R			200,001 KP3R *				
+Zcoin	XZC			11,171,643 XZC				
+Power Ledger	POWR			423,992,467 POWR *				
+SingularityNET	AGI			843,526,216 AGI *				
+GateToken	GT			76,431,036 GT *				
+Melon	MLN			1,492,260 MLN *				
+Handshake	HNS			319,200,468 HNS *				
+v.systems	VSYS			2,126,924,333 VSYS *				
+Super Zero Protocol	SERO			295,897,337 SERO *				
+WaykiChain	WICC			189,000,000 WICC *				
+WINk	WIN			313,607,571,387 WIN *				
+Aeternity	AE			324,175,456 AE				
+Nexalt	XLT			19,480,777 XLT *				
+Fetch.ai	FET			746,113,681 FET *				
+Kleros	PNK			553,748,265 PNK *				
+Digitex Futures	DGTX			931,035,715 DGTX *				
+Aion	AION			477,861,253 AION				
+DIA	DIA			28,271,916 DIA *				
+xDai	STAKE			3,148,408 STAKE *				
+Elastos	ELA			17,244,540 ELA				
+Orbs	ORBS			2,229,950,518 ORBS *				
+Wirex Token	WXT			3,100,500,000 WXT *				
+Tellor	TRB			1,530,127 TRB				
+Harmony	ONE			6,255,461,110 ONE *				
+Thunder Token	TT			5,887,903,653 TT *				
+Ultra	UOS			282,481,645 UOS *				
+Streamr	DATA			692,329,898 DATA *				
+Syscoin	SYS			599,412,729 SYS				
+GXChain	GXC			70,000,000 GXC *				
+BOSAGORA	BOA			282,119,914 BOA *				
+Switcheo	SWTH			1,070,155,283 SWTH *				
+Haven Protocol	XHV			13,831,756 XHV *				
+AdEx Network	ADX			102,076,223 ADX *				
+0x
+ABBC Coin
+Aave
+AdEx Network
+Aeternity
+Aion
+Algorand
+Ampleforth
+Ankr
+Aragon
+Ardor
+Ark
+Arweave
+Augur
+Avalanche
+BOSAGORA
+Balancer
+Bancor
+Band Protocol
+Basic Attention Token
+Binance Coin
+Binance USD
+BitShares
+BitTorrent
+Bitcoin
+Bitcoin BEP2
+Bitcoin Cash
+Bitcoin Diamond
+Bitcoin Gold
+Bitcoin SV
+Blockstack
+Bytom
+Cardano
+Celo
+Celsius
+Chainlink
+Chiliz
+Compound
+Cosmos
+Crypto.com Coin
+Curve DAO Token
+CyberVein
+DFI.Money
+DIA
+Dai
+Dash
+Decentraland
+Decred
+DigiByte
+Digitex Futures
+Divi
+Dogecoin
+DxChain Token
+EOS
+Elastos
+Electroneum
+Elrond
+Energi
+Energy Web Token
+Enjin Coin
+Ethereum
+Ethereum Classic
+FTX Token
+Fantom
+Fetch.ai
+Filecoin
+Flexacoin
+GXChain
+GateToken
+Gnosis
+Golem
+HUSD
+Handshake
+Harmony
+Haven Protocol
+Hedera Hashgraph
+HedgeTrade
+Helium
+Hive
+Holo
+Horizen
+Huobi Token
+Hxro
+HyperCash
+Hyperion
+ICON
+IOST
+IOTA
+IRISnet
+IoTeX
+JUST
+Kava.io
+Keep3rV1
+Kin
+Kleros
+Komodo
+KuCoin Shares
+Kusama
+Kyber Network
+Lisk
+Litecoin
+Loopring
+MaidSafeCoin
+Maker
+Matic Network
+Melon
+MonaCoin
+Monero
+NEAR Protocol
+NEM
+NXM
+Nano
+Neo
+Nervos Network
+Nexalt
+Nexo
+Numeraire
+OKB
+OMG Network
+Ocean Protocol
+Ontology
+Orbs
+Orchid
+OriginTrail
+PAX Gold
+Paxos Standard
+Polkadot
+Power Ledger
+Pundi X
+Qtum
+Quant
+QuarkChain
+RSK Infrastructure Framework
+Ravencoin
+Ren
+Reserve Rights
+Revain
+SOLVE
+STASIS EURO
+SUN
+Serum
+ShareToken
+Siacoin
+SingularityNET
+Solana
+Status
+Steem
+Stellar
+Storj
+Stratis
+Streamr
+Super Zero Protocol
+SushiSwap
+Swipe
+SwissBorg
+Switcheo
+Synthetix Network Token
+Syscoin
+THETA
+THORChain
+TRON
+Tellor
+Terra
+Tether
+Tezos
+The Midas Touch Gold
+Theta Fuel
+Thunder Token
+TomoChain
+Travala.com
+TrueUSD
+UMA
+UNUS SED LEO
+USD Coin
+Ultra
+Unibright
+Uniswap
+Uquid Coin
+Utrust
+VeChain
+Velas
+Verge
+Voyager Token
+WAX
+WINk
+Wanchain
+Waves
+WaykiChain
+Wirex Token
+Wrapped Bitcoin
+XRP
+ZB Token
+Zcash
+Zcoin
+Zilliqa
+aelf
+iExec RLC
+v.systems
+xDai
+yearn.finance
